@@ -1,0 +1,5 @@
+user: paising@gmail.com
+pw: 123456
+
+admin:pasi
+pw: 123456
