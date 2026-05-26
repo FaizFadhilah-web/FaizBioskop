@@ -1,4 +1,4 @@
-user: paising@gmail.com
+user: paise@gmail.com
 pw: 123456
 
 admin:pasi
